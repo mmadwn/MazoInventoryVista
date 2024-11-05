@@ -1,0 +1,6 @@
+{
+  "watch": ["backend"],
+  "ext": ".ts,.js",
+  "ignore": [],
+  "exec": "node --import tsx backend/server.ts"
+} 
